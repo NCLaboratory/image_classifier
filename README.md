@@ -1,3 +1,11 @@
+Update: 11/2/2018
+
+Rather than *building* the classifier from the ground up, line by line, code by code, I realized that everything can be done easily through AlexNet's pre-trained classifier on MatLab. 
+
+This is more of a "use" than "build", but that is the object of today. 
+
+/update
+
 # image_classifier
 
 I used imagemagick to batch transform, grayscale, and (soon) resize images, though I may just do this through tensorflow.
